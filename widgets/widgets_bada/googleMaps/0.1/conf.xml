@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.bada.widgets.GoogleMapsWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>Google Maps Widget</label>
+  <description>Google Maps Widget</description>
+</widget>

@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.bada.widgets.DynamicTabWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>Dynamic Tab</label>
+  <description>Dynamic Tab Widget</description>
+</widget>

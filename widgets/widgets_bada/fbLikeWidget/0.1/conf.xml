@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.bada.widgets.FbLikeWidgetWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>Facebook Like Widget</label>
+  <description>Facebook Like Widget</description>
+</widget>

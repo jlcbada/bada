@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.bada.widgets.AssignmentTabWidgetWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>Assignment Tab</label>
+  <description>Assignment Tab Widget</description>
+</widget>
