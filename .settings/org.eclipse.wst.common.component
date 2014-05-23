@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="bada_t">
+        <wb-resource deploy-path="/" source-path="/src" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/META-INF/resources" source-path="/WebContent"/>
+        <dependent-module archiveName="xdata.jar" deploy-path="/" handle="module:/resource/xdata/xdata">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
+    </wb-module>
+</project-modules>
