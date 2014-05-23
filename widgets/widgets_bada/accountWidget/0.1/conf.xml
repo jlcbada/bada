@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.bada.widgets.AccountWidgetWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>Account Widget</label>
+  <description>Account Widget</description>
+</widget>

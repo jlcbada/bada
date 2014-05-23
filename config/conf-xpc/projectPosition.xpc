@@ -1,0 +1,9 @@
+<xpcConfig>
+	<entityType name="phinza.V.projectPosition">
+		<description>Project Position</description>
+		<method>
+			<name>select</name>
+			<class>tooltwist.bada.xpc.ProjectPositionXpc</class>
+		</method>
+	</entityType>
+</xpcConfig>

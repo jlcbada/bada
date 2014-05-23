@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.bada.widgets.AddProjectWidgetWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>Add Project Widget</label>
+  <description>Add Project Widget</description>
+</widget>

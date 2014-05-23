@@ -1,0 +1,4 @@
+<requestHandler>
+	<class>tooltwist.bada.requestHandlers.UpdateRequestHandler</class>
+	<description>Person Update Handler</description>
+</requestHandler>

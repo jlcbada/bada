@@ -1,0 +1,4 @@
+<requestHandler>
+	<class>tooltwist.bada.requestHandlers.AccountHandlerRequestHandler</class>
+	<description>Account Handler</description>
+</requestHandler>

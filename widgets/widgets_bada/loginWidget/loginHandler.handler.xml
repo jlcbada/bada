@@ -1,0 +1,4 @@
+<requestHandler>
+	<class>tooltwist.bada.requestHandlers.LoginHandlerRequestHandler</class>
+	<description>loginHandler</description>
+</requestHandler>

@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.bada.widgets.PersonMaintenanceWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>Person Maintenance</label>
+  <description>Person Maintenance</description>
+</widget>

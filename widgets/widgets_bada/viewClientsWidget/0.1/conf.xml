@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.bada.widgets.ViewClientsWidgetWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>View Client</label>
+  <description>View Client</description>
+</widget>

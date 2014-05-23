@@ -1,0 +1,9 @@
+<xpcConfig>
+	<entityType name="bada.clientEmployeeXpc">
+		<description>Client Employee Xpc</description>
+		<method>
+			<name>select</name>
+			<class>tooltwist.bada.xpc.ClientEmployeeXpcXpc</class>
+		</method>
+	</entityType>
+</xpcConfig>

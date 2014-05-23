@@ -1,0 +1,4 @@
+<requestHandler>
+	<class>tooltwist.bada.requestHandlers.ProjectHandlerRequestHandler</class>
+	<description>Project Handler</description>
+</requestHandler>

@@ -1,0 +1,9 @@
+<xpcConfig>
+	<entityType name="phinza.V.projectClientEmployee">
+		<description>Project Client Employee Xpc</description>
+		<method>
+			<name>select</name>
+			<class>tooltwist.bada.xpc.ProjectClientEmployeeXpc</class>
+		</method>
+	</entityType>
+</xpcConfig>

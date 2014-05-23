@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.bada.widgets.ShowMemberWidgetsWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>Show Member Widgets</label>
+  <description>Show Member Widgets</description>
+</widget>

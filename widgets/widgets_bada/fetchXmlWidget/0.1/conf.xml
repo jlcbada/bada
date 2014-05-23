@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.bada.widgets.FetchXmlWidgetWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>Fetch XML Widget</label>
+  <description>Fetch XML Widget</description>
+</widget>

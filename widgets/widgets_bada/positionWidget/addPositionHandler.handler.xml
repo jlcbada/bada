@@ -1,0 +1,4 @@
+<requestHandler>
+	<class>tooltwist.bada.requestHandlers.AddPositionHandlerRequestHandler</class>
+	<description>Add Position Handler</description>
+</requestHandler>

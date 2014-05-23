@@ -1,0 +1,4 @@
+<requestHandler>
+	<class>tooltwist.bada.requestHandlers.ContactClientHandlerRequestHandler</class>
+	<description>Contact Client Handler</description>
+</requestHandler>

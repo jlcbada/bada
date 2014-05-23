@@ -37,15 +37,15 @@ alert("here");
 		%> 
 		<li class="has-sub"><a href='<%= nav.getId() %>'><span><%= nav.getLabel() %></span></a>
 			<ul>
-			<% Iterable <Navpoint> grandChildren = nav.getChildren(); 
+			<% Iterable <Navpoint> grandChildren = nav.getChildren();   
 			for(Navpoint innerNav:grandChildren){ 
 					%> 
 							<li><a href='<%=innerNav.getId() %>'><span> <%=innerNav.getLabel() %></span></a></li>				
 			<%}	%>
 					</ul>
 				</li> 
-		<% 	}
-					else { %> 
+<%}
+		else { %> 
    					<li><a href='<%=nav.getId() %>'><span><%=nav.getLabel() %></span></a></li>
    <%  		}
 		   } %> 

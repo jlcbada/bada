@@ -1,0 +1,6 @@
+<widget>
+  <widgetClass>tooltwist.bada.widgets.MyNewVerticalMenuWidgetWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <label>New Vertial Menu Widget</label>
+  <description>New Vertical Menu Widget</description>
+</widget>
